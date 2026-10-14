@@ -2,6 +2,11 @@
 
 Spatial Merchant is a mixed-reality product showroom built with Next.js, React Three Fiber, Three.js, and WebXR. Alongside the Sora sculptural vase collection, it features protein and molecular design visualization, with potential applications in drug discovery research, education, and the development of models for 3D printing. A separate general showroom offers sample objects and a molecule-inspired collectible.
 
+## Demo video
+
+https://youtu.be/vOq6yf1K_Qg
+
+
 ## Getting started
 
 Requirements: Node.js 20.9 or later and npm.
