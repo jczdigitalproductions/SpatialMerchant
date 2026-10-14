@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo
+.env
+.env.local
+.vercel/
+
+# Local presentation videos
+/demo/*.mp4
