@@ -7,6 +7,7 @@ import {
   CheckCircle2,
   Glasses,
   Layers,
+  Play,
   RotateCw,
   Ruler,
   ShoppingBag,
@@ -131,6 +132,15 @@ export default function SoraCollectionPage() {
             <span className="hidden sm:inline">Place in Room</span>
             <span className="sm:hidden">AR</span>
           </button>
+          <a
+            href="https://youtu.be/vOq6yf1K_Qg"
+            target="_blank"
+            rel="noreferrer"
+            className="flex items-center gap-2 rounded-xl border border-white/10 bg-neutral-900/80 px-3 py-2.5 text-xs text-neutral-200 backdrop-blur-xl transition hover:bg-neutral-800 sm:px-4 sm:text-sm"
+          >
+            <Play className="h-4 w-4" />
+            2-Minute Demo
+          </a>
           <button
             onClick={() => void enterXR("vr")}
             className="flex items-center gap-2 rounded-xl border border-white/10 bg-neutral-900/80 px-3 py-2.5 text-xs text-neutral-200 backdrop-blur-xl transition hover:bg-neutral-800 sm:px-4 sm:text-sm"
